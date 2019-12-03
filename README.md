@@ -1,6 +1,6 @@
 # MissileMaster
 A 3D Unreal experiment made in Blueprints. Collect money and spend it to protect your base from incoming enemy missiles with missiles of your own!
-C:\Code\UnrealEngineProjects\ShawnsBlaster\Build\Windows\WindowsNoEditor\ShawnsBlaster.exe for a windows executable.
+Build\Windows\WindowsNoEditor\ShawnsBlaster.exe for a windows executable.
 
 Controls: 
 
